@@ -1,5 +1,5 @@
 #Automatic Can Crusher
-This project is a fully automatic can crusher based on the microcontroller ATmega328p Arduino Uno. The machine is made by two hydraulic rams and an Arduino which has a LDR and a LED as a can sensor.
+This project is a fully automatic can crusher based on the microcontroller ATmega328p Arduino Uno. The machine is made of two hydraulic rams and an Arduino which has a LDR and a LED as a can sensor.
 ![](https://github.com/jaimedantas/Automatic-Can-Crusher-Arduino/blob/master/project.png)
 
 There are a relay bank for switching the hydraulic cylinders. 
